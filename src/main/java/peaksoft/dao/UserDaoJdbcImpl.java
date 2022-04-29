@@ -28,7 +28,7 @@ public class UserDaoJdbcImpl implements UserDao {
     }
 
     public void removeUserById(long id) {
-        userService.removeUserById(6);
+        userService.removeUserById(id);
     }
 
     public List<User> getAllUsers() {

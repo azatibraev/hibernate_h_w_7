@@ -95,8 +95,7 @@ public class UserServiceImpl implements UserService {
     }
 
     public boolean existsByFirstName(String firstName) {
-
-        String query = "select * from users  where name ='" + firstName + "'";
+        String query = "select * from users where name ='" + firstName + "';";
         try (Statement statement = connection.createStatement();){
             if (firstName != null && !(firstName.isEmpty())) {
                 statement.executeQuery(query);
