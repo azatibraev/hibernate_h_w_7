@@ -2,6 +2,7 @@ package peaksoft.model;
 
 
 import jakarta.persistence.*;
+import org.hibernate.annotations.ColumnTransformer;
 
 @Entity
 @Table(name = "users")

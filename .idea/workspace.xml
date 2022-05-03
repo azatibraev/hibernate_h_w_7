@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffc76fc2-6462-40db-a424-2f3794b7524f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1393eb8a-54c2-4308-b009-eb449b8ff180.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1393eb8a-54c2-4308-b009-eb449b8ff180.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1393eb8a-54c2-4308-b009-eb449b8ff180/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1393eb8a-54c2-4308-b009-eb449b8ff180/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+    <list default="true" id="ffc76fc2-6462-40db-a424-2f3794b7524f" name="Changes" comment="h_w_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/dao/UserDaoHibernateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/dao/UserDaoHibernateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/service/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,8 +180,16 @@
       <workItem from="1650960653767" duration="4795000" />
       <workItem from="1651089133106" duration="167000" />
       <workItem from="1651089322323" duration="25300000" />
-      <workItem from="1651160223744" duration="19737000" />
+      <workItem from="1651160223744" duration="27947000" />
     </task>
+    <task id="LOCAL-00001" summary="h_w_7">
+      <created>1651245223469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651245223469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +205,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="h_w_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="h_w_7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JDBCAndHibernateTask_Java5$Main.ic" NAME="Main Coverage Results" MODIFIED="1650483821564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
